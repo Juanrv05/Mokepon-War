@@ -1,0 +1,16 @@
+{
+  "name": "mokepon",
+  "version": "1.0.0",
+  "description": "Es una juego de Mokepones, con 3 personajes y distintos ataques, el objetivo es seleccionar un personaje y el enemigo seleccionará también uno y se tendrán que atacar entre sí, para poder ganar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Esteban RodriguezP",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
